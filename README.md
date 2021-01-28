@@ -6,4 +6,4 @@
 
 
 
-<p align="left"><weak>Thanks to Joker-V2 for template</weak></p>
+<p align="left">Thanks to Joker-V2 for template</p>
